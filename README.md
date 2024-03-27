@@ -10,3 +10,11 @@ Questions:
 Skills Used:
 * Data Analysis with Pandas
 * Data Visualization with Seaborn
+
+# [Project 2: Ad Comparison](https://github.com/jaymendoza1014/ad_comparison/blob/main/ad_comparison.ipynb.ipynb.ipynb)
+
+* A/B Testing Advervisments
+* Calculating Click-Through Rates 
+
+Skills Used:
+* Data Analysis (Group by, Pivot Tables, Merging)
