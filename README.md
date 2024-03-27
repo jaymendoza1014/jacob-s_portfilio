@@ -18,3 +18,10 @@ Skills Used:
 
 Skills Used:
 * Data Analysis (Group by, Pivot Tables, Merging)
+
+# [Project 3: Travel Cost Planner](https://public.tableau.com/app/profile/jacob.mendoza7622/viz/TravelCostPlanner/Dashboard1)
+
+* Data Visualization using Tableau
+* Interactive Dashboard
+* Used SQL to query relevant information from travel data to discover average prices to travel around the world
+
