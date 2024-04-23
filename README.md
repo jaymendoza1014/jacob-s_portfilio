@@ -1,6 +1,11 @@
-# Jacob's Analytics Portfolio
+# Jacob's Portfolio
 
-# [Project 1: Analyzing the Sales Performance of Japanese Manga Series](https://github.com/jaymendoza1014/best_selling_manga/blob/main/best_selling_manga_research_project.ipynb.ipynb.ipynb)
+# [Project 1: UFC Fight Predictions](https://github.com/jaymendoza1014/ufc_predictive_model) 
+
+* Evaluation of the effectiveness of machine learning models in predicting the outcomes of UFC fights
+* A data analysis project also included that was used to explore the data and determine which variables would be best to include in the model
+
+# [Project 2: Analyzing the Sales Performance of Japanese Manga Series](https://github.com/jaymendoza1014/best_selling_manga/blob/main/best_selling_manga_research_project.ipynb.ipynb.ipynb)
 
 Questions:
 * What is the best selling manga series of all time?
@@ -11,7 +16,7 @@ Skills Used:
 * Data Analysis with Pandas
 * Data Visualization with Seaborn
 
-# [Project 2: Ad Comparison](https://github.com/jaymendoza1014/ad_comparison/blob/main/ad_comparison.ipynb.ipynb.ipynb)
+# [Project 3: Ad Comparison](https://github.com/jaymendoza1014/ad_comparison/blob/main/ad_comparison.ipynb.ipynb.ipynb)
 
 * A/B Testing Advervisments
 * Calculating Click-Through Rates 
@@ -19,7 +24,7 @@ Skills Used:
 Skills Used:
 * Data Analysis (Group by, Pivot Tables, Merging)
 
-# [Project 3: Travel Cost Planner](https://public.tableau.com/app/profile/jacob.mendoza7622/viz/TravelCostPlanner/Dashboard1)
+# [Project 4: Travel Cost Planner](https://public.tableau.com/app/profile/jacob.mendoza7622/viz/TravelCostPlanner/Dashboard1)
 
 * Data Visualization using Tableau
 * Interactive Dashboard
